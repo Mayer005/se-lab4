@@ -1,0 +1,3 @@
+# Create GT4500, that only has torpedo in the secondary 
+GT4500,0,0,1,0
+TORPEDO,SINGLE
