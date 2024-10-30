@@ -1,0 +1,4 @@
+# Create GT4500 that will always fail, but has some torpedos
+GT4500,2,1,2,1
+TORPEDO,SINGLE
+TORPEDO,ALL
